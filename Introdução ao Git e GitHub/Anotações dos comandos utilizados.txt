@@ -1,0 +1,6 @@
+git status - para verificar qual arquivo sofreu alteração
+git add * - para dicionar tudo
+git status - para verificar se ele foi adicionado
+git commit -m "descrição da alteração feita" - para comitar a alteração
+git push - enviar o codigo da maquina para o github
+git pull origin master - puxar o codigo q esta no github para a maquina
